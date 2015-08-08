@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">SwitchButton</string>
+    <string name="switch_1">普通开关</string>
+    <string name="switch_2">状态改变监听</string>
+    <string name="switch_3">不可用状态</string>
+
+</resources>
